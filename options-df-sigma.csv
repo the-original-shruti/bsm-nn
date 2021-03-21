@@ -1,4 +1,4 @@
-Date,exdate,cp_flag,strike_price,option_price,stock_price,date_ndiff,sigma_20,treasury_rate
+date,exdate,cp_flag,strike_price,option_price,stock_price,date_ndiff,sigma_20,treasury_rate
 01-Jan-2020,02-Jan-2020,PE,13300,1000.0,12182.5,1,0.005728133464905110,5.0
 01-Jan-2020,02-Jan-2020,PE,13350,1419.0,12182.5,1,0.005728133464905110,5.0
 01-Jan-2020,02-Jan-2020,PE,13400,1430.4,12182.5,1,0.005728133464905110,5.0
